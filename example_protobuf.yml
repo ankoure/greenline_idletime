@@ -1,0 +1,353 @@
+id: "G-10120"
+vehicle {
+  trip {
+    trip_id: "ADDED-1581698615"
+    route_id: "Green-B"
+    direction_id: 0
+    start_time: "17:33:21"
+    start_date: "20231115"
+    schedule_relationship: ADDED
+  }
+  vehicle {
+    id: "G-10120"
+    label: "3906-3915"
+  }
+  position {
+    latitude: 42.3516312
+    longitude: -71.1199188
+    bearing: 315
+  }
+  current_stop_sequence: 180
+  stop_id: "170137"
+  current_status: STOPPED_AT
+  timestamp: 1700089905
+  multi_carriage_details {
+  }
+  multi_carriage_details {
+  }
+}
+
+id: "G-10003"
+vehicle {
+  trip {
+    trip_id: "58397737"
+    route_id: "Green-B"
+    direction_id: 0
+    start_time: "17:21:00"
+    start_date: "20231115"
+    schedule_relationship: SCHEDULED
+  }
+  vehicle {
+    id: "G-10003"
+    label: "3704-3871"
+  }
+  position {
+    latitude: 42.3484497
+    longitude: -71.1371231
+    bearing: 315
+    speed: 6.2
+  }
+  current_stop_sequence: 240
+  stop_id: "70127"
+  current_status: STOPPED_AT
+  timestamp: 1700089893
+  multi_carriage_details {
+  }
+  multi_carriage_details {
+  }
+}
+
+id: "G-10258"
+vehicle {
+  trip {
+    trip_id: "58397713"
+    route_id: "Green-B"
+    direction_id: 1
+    start_time: "17:58:00"
+    start_date: "20231115"
+    schedule_relationship: SCHEDULED
+  }
+  vehicle {
+    id: "G-10258"
+    label: "3870-3686"
+  }
+  position {
+    latitude: 42.3501282
+    longitude: -71.1315765
+    bearing: 45
+  }
+  current_stop_sequence: 90
+  stop_id: "70130"
+  current_status: STOPPED_AT
+  timestamp: 1700089894
+  multi_carriage_details {
+  }
+  multi_carriage_details {
+  }
+}
+
+id: "G-10075"
+vehicle {
+  trip {
+    trip_id: "58397711"
+    route_id: "Green-B"
+    direction_id: 1
+    start_time: "17:42:00"
+    start_date: "20231115"
+    schedule_relationship: SCHEDULED
+  }
+  vehicle {
+    id: "G-10075"
+    label: "3678-3828"
+  }
+  position {
+    latitude: 42.3492508
+    longitude: -71.1006393
+    bearing: 135
+    speed: 3.7
+  }
+  current_stop_sequence: 170
+  stop_id: "70148"
+  current_status: INCOMING_AT
+  timestamp: 1700089903
+  multi_carriage_details {
+  }
+  multi_carriage_details {
+  }
+}
+
+id: "G-10148"
+vehicle {
+  trip {
+    trip_id: "58397712"
+    route_id: "Green-B"
+    direction_id: 1
+    start_time: "17:50:00"
+    start_date: "20231115"
+    schedule_relationship: SCHEDULED
+  }
+  vehicle {
+    id: "G-10148"
+    label: "3922-3900"
+  }
+  position {
+    latitude: 42.3517
+    longitude: -71.1253
+    bearing: 45
+    speed: 4.4
+  }
+  current_stop_sequence: 100
+  stop_id: "70134"
+  current_status: STOPPED_AT
+  timestamp: 1700089811
+  multi_carriage_details {
+  }
+  multi_carriage_details {
+  }
+}
+
+id: "G-10006"
+vehicle {
+  trip {
+    trip_id: "ADDED-1581698647"
+    route_id: "Green-B"
+    direction_id: 1
+    start_time: "17:55:28"
+    start_date: "20231115"
+    schedule_relationship: ADDED
+  }
+  vehicle {
+    id: "G-10006"
+    label: "3706-3851"
+  }
+  position {
+    latitude: 42.3401794
+    longitude: -71.1670914
+    bearing: 135
+  }
+  current_stop_sequence: 1
+  stop_id: "70106"
+  current_status: STOPPED_AT
+  timestamp: 1700089841
+  multi_carriage_details {
+  }
+  multi_carriage_details {
+  }
+}
+
+id: "G-10022"
+vehicle {
+  trip {
+    trip_id: "ADDED-1581698589"
+    route_id: "Green-B"
+    direction_id: 0
+    start_time: "17:26:33"
+    start_date: "20231115"
+    schedule_relationship: ADDED
+  }
+  vehicle {
+    id: "G-10022"
+    label: "3707-3841"
+  }
+  position {
+    latitude: 42.3506508
+    longitude: -71.1304703
+    bearing: 225
+    speed: 4.6
+  }
+  current_stop_sequence: 220
+  stop_id: "70131"
+  current_status: STOPPED_AT
+  timestamp: 1700089902
+  multi_carriage_details {
+  }
+  multi_carriage_details {
+  }
+}
+
+id: "G-10011"
+vehicle {
+  trip {
+    trip_id: "58397708"
+    route_id: "Green-B"
+    direction_id: 1
+    start_time: "17:18:00"
+    start_date: "20231115"
+    schedule_relationship: SCHEDULED
+  }
+  vehicle {
+    id: "G-10011"
+    label: "3800-3631"
+  }
+  position {
+    latitude: 42.3489304
+    longitude: -71.0944595
+    bearing: 90
+  }
+  current_stop_sequence: 560
+  stop_id: "70152"
+  current_status: IN_TRANSIT_TO
+  timestamp: 1700089904
+  multi_carriage_details {
+  }
+  multi_carriage_details {
+  }
+}
+
+id: "G-10086"
+vehicle {
+  trip {
+    trip_id: "58397736"
+    route_id: "Green-B"
+    direction_id: 0
+    start_time: "17:13:00"
+    start_date: "20231115"
+    schedule_relationship: SCHEDULED
+  }
+  vehicle {
+    id: "G-10086"
+    label: "3861-3617"
+  }
+  position {
+    latitude: 42.3425789
+    longitude: -71.1439
+    bearing: 225
+    speed: 6.3
+  }
+  current_stop_sequence: 270
+  stop_id: "70117"
+  current_status: INCOMING_AT
+  timestamp: 1700089903
+  multi_carriage_details {
+  }
+  multi_carriage_details {
+  }
+}
+
+id: "G-10023"
+vehicle {
+  trip {
+    trip_id: "58397742"
+    route_id: "Green-B"
+    direction_id: 0
+    start_time: "18:01:00"
+    start_date: "20231115"
+    schedule_relationship: SCHEDULED
+  }
+  vehicle {
+    id: "G-10023"
+    label: "3656-3848"
+  }
+  position {
+    latitude: 42.3497581
+    longitude: -71.1043396
+    bearing: 315
+    speed: 3.9
+  }
+  current_stop_sequence: 150
+  stop_id: "70147"
+  current_status: STOPPED_AT
+  timestamp: 1700089847
+  multi_carriage_details {
+  }
+  multi_carriage_details {
+  }
+}
+
+id: "G-10163"
+vehicle {
+  trip {
+    trip_id: "ADDED-1581698595"
+    route_id: "Green-B"
+    direction_id: 1
+    start_time: "17:05:03"
+    start_date: "20231115"
+    schedule_relationship: ADDED
+  }
+  vehicle {
+    id: "G-10163"
+    label: "3883-3618"
+  }
+  position {
+    latitude: 42.3561401
+    longitude: -71.0624313
+    bearing: 30
+  }
+  current_stop_sequence: 610
+  stop_id: "70201"
+  current_status: INCOMING_AT
+  timestamp: 1700089886
+  multi_carriage_details {
+  }
+  multi_carriage_details {
+  }
+}
+
+id: "G-10083"
+vehicle {
+  trip {
+    trip_id: "58397740"
+    route_id: "Green-B"
+    direction_id: 0
+    start_time: "17:45:00"
+    start_date: "20231115"
+    schedule_relationship: SCHEDULED
+  }
+  vehicle {
+    id: "G-10083"
+    label: "3608-3880"
+  }
+  position {
+    latitude: 42.3479118
+    longitude: -71.0863113
+    bearing: 285
+  }
+  current_stop_sequence: 120
+  stop_id: "70153"
+  current_status: STOPPED_AT
+  timestamp: 1700089621
+  multi_carriage_details {
+  }
+  multi_carriage_details {
+  }
+}
