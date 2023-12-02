@@ -28,3 +28,9 @@
        
 
 # Quickstart
+
+## Running Ingest script
+`pm2 start mbta/gtfs-ingest.py --interpreter ~/environments/mbta/bin/python`
+
+## Installing GeoServer on Debian
+
